@@ -27,23 +27,29 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="http://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
 
-- 🌱 &nbsp; I provide consulting services in the areas of AI/ML, digital transformation, data platform implementation, and strategic technical decision-making. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
+- 🌱 &nbsp; I provide <b>consulting and implementing services</b> in the areas of <b>AI/ML, digital transformation, data platform implementation, and strategic technical decision-making</b>. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
   
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
-      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+      <summary><h2 style="display: inline-block">🤝How to reach me</h2></summary>
     </ul>
   <!--icons and links-->
   <p align="left">
 <a href="https://linkedin.com/in/linhnguyenkhanh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://neuropurrfectai.substack.com">
 <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /></a>
+
+<a href="https://scholar.google.com/citations?user=cOQ7XW4AAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+
 <a href="mailto:linh@neuropurrfectai.co">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
 </a>
+
 <a href="https://www.threads.net/@linkid91">
 <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />  
 </a>
