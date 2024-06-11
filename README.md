@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; I hold a <b>Master's degree</b> in Knowledge Engineering and Machine Learning from the <b>National University of Singapore (NUS)</b>, and a dropout from <b>Georgia Institute of Technology (Georgia Tech)</b> in Computer Science.
 
-- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a><b> and <b><a href="https://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
+- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="https://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
 
 - 🌱 &nbsp; I provide consulting services in the areas of AI/ML, digital transformation, data platform implementation, and strategic technical decision-making. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
   
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <!--icons and links-->
   <p align="left">
   <a href="https://www.linkedin.com/in/linhnguyenkhanh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="linh@neuropurrfectai.co" target="blank"><img align="center" src="linh@neuropurrfectai.co" alt="gmail" height="50" width="50"  /></a>
+  <a href="mailto:linh@neuropurrfectai.co" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
 
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  ![Java](https://img.shields.io/badge/-Java-123456?style=flat&logo=java)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
