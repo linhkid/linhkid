@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Computer Scientist turned full-stack ML Engineer with 11 years experience in NLP & Machine Learning with a mixed background in Software Engineering.
+- 🐶 &nbsp; I'm a Computer Scientist turned full-stack ML Engineer. With 11+ years of experience in Natural Language Processing (NLP), Machine Learning (ML), Data Science, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to MLOps, and software development cycle with over 5 years of hands-on experience. As a part-time researcher at DataScience-Works lab in Australia, I stay at the forefront of industry trends and advancements.
 
 - 🎓 &nbsp; I hold a Master's degree in Knowledge Engineering and Machine Learning from the National University of Singapore (NUS), and a dropout from Georgia Institute of Technology (Georgia Tech) in Computer Science.
+
+- 🔭 &nbsp; I'm the founder of Beautiful Mind Vietnam and NeuroPurrfect AI -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
+
+- 🌱 &nbsp; I provide consulting services in the areas of AI/ML, digital transformation, data platform implementation, and strategic technical decision-making. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
+  
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
@@ -57,32 +62,3 @@ I'm a Computer Scientist turned full-stack ML Engineer with 11 years experience 
 
 <br/>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
-
----
-
-### ✨ Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
-
----
-
-### 📊 Profile stats
-
-[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
-
----
-
-Credit: [username](https://github.com/linhkid)
-Last Edited on: 6/4/2024
