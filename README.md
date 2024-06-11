@@ -42,7 +42,10 @@ Here are some ideas to get you started:
 <a href="https://neuropurrfectai.substack.com">
 <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /></a>
 <a href="mailto:linh@neuropurrfectai.co">
-<img src="img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+</a>
+<a href="https://www.threads.net/@linkid91">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />  
 </a>
   </p>
   </div>
