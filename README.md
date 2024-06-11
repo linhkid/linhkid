@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; I hold a <b>Master's degree</b> in Knowledge Engineering and Machine Learning from the <b>National University of Singapore (NUS)</b>, and a dropout from <b>Georgia Institute of Technology (Georgia Tech)</b> in Computer Science.
 
-- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="https://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
+- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="http://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
 
 - 🌱 &nbsp; I provide consulting services in the areas of AI/ML, digital transformation, data platform implementation, and strategic technical decision-making. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
   
@@ -51,18 +51,23 @@ Here are some ideas to get you started:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-333333.svg?style==for-the-badge&logo=github&logoColor=black)
+ 
+  
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 <br/>
 
