@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-- 🐶 &nbsp; I'm a Computer Scientist turned full-stack ML Engineer and Engineering Manager. With 11+ years of experience in <b>Natural Language Processing (NLP), Machine Learning (ML), Data Science, and Object-oriented programming</b>, I bring a strong foundation to any project. My expertise extends to <b>MLOps, and Software development cycle</b> with over 5 years of hands-on experience. As a part-time researcher at <b>DataScience-Works lab</b> in Australia, I stay at the forefront of industry trends and advancements.
+- 🐶 &nbsp; I'm a Computer Scientist turned full-stack ML Engineer. With 11+ years of experience in <b>Natural Language Processing (NLP), Machine Learning (ML), Data Science, and Object-oriented programming</b>, I bring a strong foundation to any project. My expertise extends to <b>MLOps, and Software development cycle</b> with over 5 years of hands-on experience. As a part-time researcher at <b>DataScience-Works lab</b> in Australia, I stay at the forefront of industry trends and advancements. As an experienced <b>Technical Leader and Engineering Manager</b>, I have a proven track record of building strong, successful teams.
 
 - 🎓 &nbsp; I hold a <b>Master's degree</b> in Knowledge Engineering and Machine Learning from the <b>National University of Singapore (NUS)</b>, and a dropout from <b>Georgia Institute of Technology (Georgia Tech)</b> in Computer Science.
 
