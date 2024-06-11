@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; I hold a <b>Master's degree</b> in Knowledge Engineering and Machine Learning from the <b>National University of Singapore (NUS)</b>, and a dropout from <b>Georgia Institute of Technology (Georgia Tech)</b> in Computer Science.
 
-- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="http://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical coaching as well as academic research & technical writing.
+- 🔭 &nbsp; I'm the founder of <b><a href="https://beautifulmindvn.com/" target="blank">Beautiful Mind Vietnam</a></b> and <b><a href="http://neuropurrfectai.co/" target="blank">NeuroPurrfect AI</a></b> -  a community-based startup that provides professional yet affordable AI/ML and Data Science services (with Solution architecture design included), technical consulting as well as academic research & technical writing.
 
 - 🌱 &nbsp; I provide <b>consulting and implementing services</b> in the areas of <b>AI/ML, digital transformation, data platform implementation, and strategic technical decision-making</b>. My expertise allows me to assist organizations in leveraging cutting-edge technologies to drive business growth and optimize their operations.
   
