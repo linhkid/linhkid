@@ -38,7 +38,9 @@ Here are some ideas to get you started:
   <!--icons and links-->
   <p align="left">
   <a href="https://www.linkedin.com/in/linhnguyenkhanh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="mailto:linh@neuropurrfectai.co" target="blank"></a>
+  
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    <a href="mailto:linh@neuropurrfectai.co" target="blank"></a>
     <a href="mailto:linh@neuropurrfectai.co" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
