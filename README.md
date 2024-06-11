@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hey there! I'm Linh (Kid) Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+**AI/ML Engineer, Researcher, Consultant, AI Solution Architect, Fur-parents. Based in <a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/84.svg" alt="made in 84">
+</a>** 
 
 ## <picture><img src = "https://64.media.tumblr.com/tumblr_mc9uqd7o3B1qg6rkio1_500.gifv?raw=true" width = 50px></picture> About Me
 
