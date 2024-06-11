@@ -37,9 +37,9 @@ Here are some ideas to get you started:
     </ul>
   <!--icons and links-->
   <p align="left">
-  <a href="https://www.linkedin.com/in/linhnguyenkhanh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/linhnguyenkhanh/" target="blank">https://www.linkedin.com/in/linhnguyenkhanh/</a>
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="mailto:linh@neuropurrfectai.co" target="blank">linh@neuropurrfectai.co</a>
+    ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) [https://www.linkedin.com/in/linhnguyenkhanh/](https://neuropurrfectai.substack.com/)
   </p>
   </div>
 
