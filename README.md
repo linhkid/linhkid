@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2> Hey there! I'm Linh (Kid) Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-**AI/ML Engineer, Researcher, Consultant, AI Solution Architect, Fur-parents. <a href="https://github.com/pedromxavier/flag-badges">
+**AI/ML Engineer, Researcher, Consultant, AI Solution Architect, Fur-parents <a href="https://github.com/pedromxavier/flag-badges">
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/VN.svg" alt="From VN">
 </a>** 
 
